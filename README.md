@@ -11,7 +11,7 @@
 - 🔭 Passionate about building real-world applications
 - 💡 Driven by a love for creating seamless user experiences with **React** and robust, secure backends using **Java Spring Boot** and **Node.js**
 - 🌱 Learning more about backend optimization with Spring Boot
-- 💬 Ask me about: React, Styled Components, tailwin css, Node.js, Java Spring Boot, MongoDB, and SQL, PostgreSQL
+- 💬 Ask me about: React, Styled Components, tailwind css, Node.js, Java Spring Boot, MongoDB, and SQL, PostgreSQL
 - ⚡ Fun fact: I love combining clean UI with powerful backend logic
 
 ---
